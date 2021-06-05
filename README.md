@@ -1,2 +1,2 @@
 # Hierarchical-Classification
-Experiments for Hierarchical Classification
+Experiments for Large Scale Hierarchical Classification
